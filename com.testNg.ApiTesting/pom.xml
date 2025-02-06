@@ -22,7 +22,9 @@
 	</dependency>
 
   </dependencies>
-  <properties>
-    <java.version>8</java.version>
+<properties>
+    <java.version>17</java.version>
+    <maven.compiler.source>17</maven.compiler.source>
+    <maven.compiler.target>17</maven.compiler.target>
 </properties>
 </project>
